@@ -60,7 +60,7 @@ Thumbs.db
 # Version control
 vcs.xml
 
-# lint
+# lintf
 lint/intermediates/
 lint/generated/
 lint/outputs/
