@@ -1,8 +1,11 @@
 # Built application files
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> 0a456399af3e658a557ff958bd4d3c3ec3d154f0
 build/
 
 # Files for the ART/Dalvik VM
@@ -11,6 +14,7 @@ build/
 # External native build folder generated in Android Studio 2.2 and later
 .externalNativeBuild
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 
 *.ap_
@@ -22,6 +26,8 @@ local.properties
 
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> 0a456399af3e658a557ff958bd4d3c3ec3d154f0
 # Gradle files
 .gradle/
 
@@ -52,6 +58,7 @@ captures/
 google-services.json
 
 # Version control
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 vcs.xml
 
@@ -77,3 +84,6 @@ lint/reports/
 =======
 vcs.xml
 >>>>>>> Stashed changes
+=======
+vcs.xml
+>>>>>>> 0a456399af3e658a557ff958bd4d3c3ec3d154f0
